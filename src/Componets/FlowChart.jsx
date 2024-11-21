@@ -9,7 +9,7 @@ import {
   addEdge,
 } from "reactflow";
 import "reactflow/dist/style.css";
-import "./Flowchart.css";
+import "./FlowChart.css";
 import AddIcon from "@mui/icons-material/Add";
 import FlashOnIcon from "@mui/icons-material/FlashOn";
 import { Handle } from "reactflow";
